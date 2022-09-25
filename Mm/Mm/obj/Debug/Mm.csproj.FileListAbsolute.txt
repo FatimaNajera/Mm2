@@ -1,0 +1,11 @@
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.Form1.resources
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\bin\Debug\Mm.exe.config
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\bin\Debug\Mm.exe
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\bin\Debug\Mm.pdb
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.exe
+C:\Users\jesus\OneDrive\Documentos\Fatima\Mm\Mm\obj\Debug\Mm.pdb
